@@ -1,0 +1,16 @@
+Every thing is an Oject in JS
+
+Primitives:
+Numbers
+Strings
+Boooleans
+Undefined
+Null
+
+EveryThing Else are objects:
+Arrays
+Functions
+objects
+dates
+Wrappers for Numbers
+strings, Boooleans
